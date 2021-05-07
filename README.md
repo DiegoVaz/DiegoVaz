@@ -2,9 +2,10 @@
 
 ## Hello World, I'm Diego Vaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-## About me
+## Sobre mim 
 
-👋 I'm Diego Guimarães Vaz.<br><br>
+👋 Eu sou o  Diego Guimarães Vaz.<br>
+📍 Goiânia - GO <br>
 💻 Sou desenvolvedor de sistemas Front-End (ReactJS).<br><br>
 🔭 Curiosidades: Gosto de jogar volêi e andar de bike; apaixonado por ouvir podcast e ouvir outros pontos de vista; grande gosto por aprender novas tecnologias.<br><br><br><br><br><br>
 
